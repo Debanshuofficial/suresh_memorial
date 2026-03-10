@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smi.hsvikrant.dpdns.org/sitemap.xml
